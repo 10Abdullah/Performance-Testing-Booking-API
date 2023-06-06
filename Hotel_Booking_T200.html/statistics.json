@@ -1,0 +1,50 @@
+{
+  "Create Booking API" : {
+    "transaction" : "Create Booking API",
+    "sampleCount" : 200,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 4322.605000000002,
+    "medianResTime" : 3759.0,
+    "minResTime" : 2309.0,
+    "maxResTime" : 17870.0,
+    "pct1ResTime" : 6772.3,
+    "pct2ResTime" : 9744.149999999998,
+    "pct3ResTime" : 17827.62000000002,
+    "throughput" : 8.904719501335707,
+    "receivedKBytesPerSec" : 3.843638691006233,
+    "sentKBytesPerSec" : 3.895814781834372
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 400,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 2565.060000000001,
+    "medianResTime" : 2339.0,
+    "minResTime" : 533.0,
+    "maxResTime" : 17870.0,
+    "pct1ResTime" : 5452.9000000000015,
+    "pct2ResTime" : 6774.15,
+    "pct3ResTime" : 13100.500000000015,
+    "throughput" : 17.370912407174185,
+    "receivedKBytesPerSec" : 7.25201665436227,
+    "sentKBytesPerSec" : 5.352073109827593
+  },
+  "Get Booking API" : {
+    "transaction" : "Get Booking API",
+    "sampleCount" : 200,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 807.515,
+    "medianResTime" : 601.0,
+    "minResTime" : 533.0,
+    "maxResTime" : 3967.0,
+    "pct1ResTime" : 1990.7,
+    "pct2ResTime" : 2013.6499999999999,
+    "pct3ResTime" : 3465.3500000000067,
+    "throughput" : 10.414496979795874,
+    "receivedKBytesPerSec" : 4.200378176421578,
+    "sentKBytesPerSec" : 1.8611845188502394
+  }
+}
